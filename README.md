@@ -16,6 +16,6 @@
 ## Hold right-shift type your guess
 - enters colourblind mode
 
--- if in light mode when colourblind is activated, wordle will be in light-colourblind mode.
+- if in light mode when colourblind is activated, wordle will be in light-colourblind mode.
 
--- same goes for dark mode, dark-colourblind mode
+- same goes for dark mode, dark-colourblind mode
