@@ -15,7 +15,7 @@
 
 # Functionality
 - every game starts by default in light mode
-## Hold left-shift type "DARK"
+## Hold left-shift type "DARKM"
 - enters dark mode
 ## Hold right-shift type your guess
 - enters colourblind mode
