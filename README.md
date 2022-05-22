@@ -1,4 +1,8 @@
 # SEPMteam3
+## necessary packages
+- pygame
+- sklearn
+
 ## to run:
 
 ### for sprint 1
